@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YerimahYD
 - 👀 I’m interested in Learning and collaborating
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 I’m currently learning ML/AI 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me yerimahyusuf@gmail.com 
 
